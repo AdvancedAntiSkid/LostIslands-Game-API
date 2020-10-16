@@ -1,1 +1,1 @@
-# LostIslands-Game-API
+# LostIslands Game API
